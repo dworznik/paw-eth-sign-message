@@ -12,6 +12,9 @@ $ cd paw-eth-sign-message
 $ NODE_ENV=production make install
 ```
 
+Alternatively, download the latest build from the [releases page](https://github.com/dworznik/paw-eth-sign-message/releases), and extract it to [Paw extensions directory](https://paw.cloud/docs/extensions/index#extension-folder).
+
+
 ## Usage
 
 Insert the dynamic value from the right-click menu: Extensions -> Ethereum Message Signature.
